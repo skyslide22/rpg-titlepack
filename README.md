@@ -1,2 +1,4 @@
-# rpg-titlepack
-official repo of the trackmania 2 stadium "rpg titlepack" (2013-2022)
+# RPG Titlepack 
+Here you will find files used in/with the rpg titlepack. 
+
+... at a later point
